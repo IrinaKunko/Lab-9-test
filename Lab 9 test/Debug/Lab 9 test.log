@@ -1,0 +1,5 @@
+﻿  Lab 9 test.cpp
+c:\users\dell\source\repos\lab 9 test\lab 9 test\lab 9 test.cpp(158): warning C4102: link1: неиспользованная метка
+c:\users\dell\source\repos\lab 9 test\lab 9 test\lab 9 test.cpp(42): warning C4101: f: неиспользованная локальная переменная
+c:\users\dell\source\repos\lab 9 test\lab 9 test\lab 9 test.cpp(42): warning C4101: x: неиспользованная локальная переменная
+  Lab 9 test.vcxproj -> C:\Users\Dell\source\repos\Lab 9 test\Debug\Lab 9 test.exe
